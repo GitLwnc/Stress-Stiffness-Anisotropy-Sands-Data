@@ -1,13 +1,32 @@
 # Stress-Stiffness-Anisotropy-Sands-Data
 
-This repository contains the machine-readable experimental datasets underlying the figures and analyses presented in the manuscript.
+This repository provides information for the open dataset associated with the following publication:
 
-The datasets include:
+**Yang, Y., Liu, Z., Zhang, C., Huang, Q., Ding, W., & Chen, R. (2026).  
+Stress and stiffness anisotropies of sands during high-stress oedometer test.  
+*Transportation Geotechnics*, 66, 102417.**
 
-K₀ measurements
-Shear-wave velocities Vs,hh and Vs,vh
-Small-strain shear stiffness G₀,hh and G₀,vh
-Void ratio data
-Particle-size distribution and particle-breakage data
+## Dataset
 
-The data are organized according to sand type, initial relative density, and maximum vertical stress.
+The dataset contains measurements from high-stress oedometer tests on silica, calcite, and coral sands, including:
+
+- At-rest earth pressure coefficient, \(K_0\)
+- Shear-wave velocities, \(V_s\)
+- Small-strain shear stiffness, \(G_0\)
+- Void ratio
+- Particle-size distribution and particle-breakage data
+
+The dataset is organized according to sand type, initial relative density, and maximum vertical stress.
+
+## Data access
+
+The dataset is now hosted on the official website of **UNSAT @ Hunan University**.
+
+**Download the dataset here:**  
+https://chaozhanghnu.github.io/resource/
+
+The dataset is no longer hosted directly in this GitHub repository.
+
+## Publication
+
+DOI: https://doi.org/10.1016/j.trgeo.2026.102417
